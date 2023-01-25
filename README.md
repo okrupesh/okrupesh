@@ -9,6 +9,7 @@ I am an 18 year old computer science enthusiast currently pursuing a bachelor's 
 I am always happy to make new connections and discuss potential collaboration opportunities. To learn more about me, please feel free to connect with me through the links provided :
 
 <p align="center">
+  <a href="https://twitter.com/rupeshtwt"><img src="https://visitor-badge.laobi.icu/badge?page_id=rupeshexe.rupeshexe"></a>
   <a href="https://twitter.com/rupeshtwt"><img src="https://badgen.net/badge/icon/rupeshtwt?icon=twitter&label"></a>
   <a href="https://www.linkedin.com/in/rupeshexe/"><img src="https://img.shields.io/badge/-rupeshexe-blue?style=flat-square&logo=Linkedin&logoColor=white"></a> 
   <a href="https://discord.com/users/rupeshexe#9451"><img src="https://img.shields.io/badge/-rupeshexe-grey?style=flat-square&logo=discord&logoColor=blue"></a> 
