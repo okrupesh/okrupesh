@@ -14,12 +14,14 @@ I am always happy to make new connections and discuss potential collaboration op
 [![Youtube Badge](https://img.shields.io/badge/-Rupesh%20Dubey-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@rupeshexe)](https://www.youtube.com/@rupeshexe)
 [![Telegram Badge](https://img.shields.io/badge/-rupeshchatbot-lightblue?style=flat-square&logo=telegram&logoColor=blue&link=https://t.me/rupeshchatbot)](https://t.me/rupeshchatbot)
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshexe&theme=tokyo-night">
+<p align="center">
+<img width="80%" src="https://github-readme-activity-graph.cyclic.app/graph?username=rupeshexe&theme=tokyo-night">
+</p>
 
 ## 📈 Stats
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rupeshexe&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshexe&theme=tokyonight" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=rupeshexe&show_icons=true&theme=tokyonight" />
+  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=rupeshexe&theme=tokyonight" />
 </p>
