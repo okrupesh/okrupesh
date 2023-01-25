@@ -14,7 +14,7 @@ I am always happy to make new connections and discuss potential collaboration op
   <a href="https://discord.com/users/rupeshexe#9451"><img src="https://img.shields.io/badge/-rupeshexe-grey?style=flat-square&logo=discord&logoColor=blue"></a> 
   <a href="https://rupeshexe.hashnode.dev/"><img src="https://img.shields.io/badge/-@rupeshexe-03a57a?style=flat-square&labelColor=000000&logo=Hashnode"></a> 
   <a href="https://www.instagram.com/rupeshexe"><img src="https://img.shields.io/badge/-rupeshexe-purple?style=flat-square&logo=instagram&logoColor=white"></a> 
-  <a href="mailto:contactrupeshdubey@gmail.com"><img src="https://img.shields.io/badge/-contactrupeshdubey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
   <a href="https://www.youtube.com/@rupeshexe"><img src="https://img.shields.io/badge/-Rupesh%20Dubey-darkred?style=flat-square&logo=youtube&logoColor=white"></a>
   <a href="https://t.me/rupeshchatbot"><img src="https://img.shields.io/badge/-rupeshchatbot-lightblue?style=flat-square&logo=telegram&logoColor=blue"></a>
+  <a href="mailto:contactrupeshdubey@gmail.com"><img src="https://img.shields.io/badge/-contactrupeshdubey@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
