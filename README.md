@@ -13,7 +13,6 @@ I am always happy to make new connections and discuss potential collaboration op
   <a href="https://www.linkedin.com/in/rupeshexe/"><img src="https://img.shields.io/badge/-@rupeshexe-blue?style=plastic&labelColor=716E6E&logo=Linkedin&logoColor=white"></a> 
   <a href="https://discord.com/users/rupeshexe#9451"><img src="https://img.shields.io/badge/-@rupeshexe-grey?style=plastic&labelColor=000000&logo=discord&logoColor=white"></a> 
   <a href="https://rupeshexe.hashnode.dev/"><img src="https://img.shields.io/badge/-@rupeshexe-03a57a?style=plastic&labelColor=000000&logo=Hashnode"></a>
-  <a href="https://twitter.com/rupeshtwt"><img src="https://visitor-badge.laobi.icu/badge?page_id=rupeshexe.rupeshexe"></a>
   <a href="https://www.instagram.com/rupeshexe"><img src="https://img.shields.io/badge/-@rupeshexe-purple?style=plastic&labelColor=716E6E&logo=instagram&logoColor=white"></a> 
   <a href="https://www.youtube.com/@rupeshexe"><img src="https://img.shields.io/badge/-Rupesh%20Dubey-darkred?style=plastic&labelColor=716E6E&logo=youtube&logoColor=white"></a>
   <a href="https://t.me/rupeshchatbot"><img src="https://img.shields.io/badge/-@rupeshchatbot-blue?style=plastic&labelColor=716E6E&logo=telegram&logoColor=white"></a>
