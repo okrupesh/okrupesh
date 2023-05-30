@@ -3,7 +3,7 @@
 I am a tech enthusiast currently pursuing a bachelor's degree in the field. I have a strong passion for programming and am constantly striving to improve my skills and knowledge. I am currently learning Data Structures and Algorithms also exploring Machine Learning and am always open to collaborating on projects and exploring new and creative ideas. I am excited to continue growing and learning in the field of computer science and am always looking for opportunities to apply my skills and make a positive impact.
 
 <p align="center">
-<img width="88.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshexe&theme=tokyo-night">
+<img width="88.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=okrupesh&theme=tokyo-night">
 </p>
 
 I am always happy to make new connections and discuss potential collaboration opportunities. To learn more about me, please feel free to connect with me through the links provided :
